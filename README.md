@@ -1,7 +1,7 @@
 
 <h1 align="center"> About Me </h1>
 <br/>  
-<img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/image.gif?raw=true" />
+<img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/fox.gif?raw=true" />
 
 
 - 👋<i> Hi, I’m Le Anh Tuan (@m4gi), I'm 21 years old. I'm a student in FPT University Da Nang. </i>
@@ -19,6 +19,8 @@
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi)
+
+<img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/image.gif?raw=true" />
 <!---
 m4gi/m4gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
