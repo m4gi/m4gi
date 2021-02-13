@@ -13,6 +13,7 @@
   - GMail: letuan79200@gmail.com
 
 
+![Magi's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4gi&show_icons=true&theme=radical)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi)
 <!---
