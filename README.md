@@ -1,12 +1,9 @@
 
-<h1 align="center"> About Me
-  
-  
+<h1 align="center"> About Me </h1>
 <br/>  
 <i>
-
 - 👋 Hi, I’m Le Anh Tuan (@m4gi), I'm 21 years old. I'm a student in FPT University Da Nang. 
-
+  </i>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java - C# - Python - Reactjs - C
 - 💞️ I'm a cat lover and I love sweets.
