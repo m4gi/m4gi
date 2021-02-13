@@ -1,9 +1,9 @@
 
 <h1 align="center"> About Me </h1>
 <br/>  
+<img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 👋<i> Hi, I’m Le Anh Tuan (@m4gi), I'm 21 years old. I'm a student in FPT University Da Nang. </i>
-<img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/code.gif?raw=true" width="500" height="320" />
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java - C# - Python - Reactjs - C
 - 💞️ I'm a cat lover and I love sweets.
