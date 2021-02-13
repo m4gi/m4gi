@@ -14,7 +14,9 @@
 
 
 ![Magi's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4gi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gi&layout=compact)](https://github.com/m4gi/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gi&layout=compact&theme=radical)](https://github.com/m4gi/github-readme-stats)
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi)
 <!---
 m4gi/m4gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
