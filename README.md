@@ -17,13 +17,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gi&layout=compact&theme=radical)](https://github.com/m4gi/github-readme-stats)
 <br/>
 
-<a href="https://github.com/m4gi/CBasic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4gi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/m4gi/java_fpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4gi&repo=convoychat" />
-</a>
-<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi)
 <!---
 m4gi/m4gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
