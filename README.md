@@ -13,6 +13,8 @@
   - Mail: tuanlade140280@fpt.edu.vn
   - GMail: letuan79200@gmail.com
 
+<br/>
+<br/>
 
 ![Magi's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4gi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4gi&layout=compact&theme=radical)
