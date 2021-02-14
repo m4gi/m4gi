@@ -23,6 +23,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi)
 
 <img alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/image.gif?raw=true" />
+
 <!---
 m4gi/m4gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
