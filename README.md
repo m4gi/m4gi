@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/m4gi/m4gi/blob/main/fox.gif?raw=true"/>
 
 
-- 👋<i> Hi, I’m Le Anh Tuan (@m4gi), I'm 21 years old. I'm a student in FPT University Da Nang. </i>
+- 👋<i> Hi, I’m Le Anh Tuan (@m4gi), I'm 23 years old. I'm a student in FPT University Da Nang. </i>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java - C# - Python - Reactjs - C
 - 💞️ I'm a cat lover and I love sweets.
