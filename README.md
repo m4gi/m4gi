@@ -11,7 +11,7 @@
   <a href="mailto:letuan79200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.facebook.com/letuan7920"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://github.com/m4gi"><img src="https://img.shields.io/github/followers/m4gi?label=Followers&style=for-the-badge&logo=github&color=7F00FF" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=m4gi&style=for-the-badge&color=00C9FF&label=Profile+Views" alt="Profile views"/>
+  <img height="28" src="https://visitor-badge.laobi.icu/badge?page_id=m4gi.m4gi&left_text=%F0%9F%91%80%20Visitors&left_color=%237F00FF&right_color=%23F75C7E" alt="Visitors"/>
 </p>
 
 ---
